@@ -40,7 +40,7 @@ The project is organized into the following sections:
 ## Installation
 
 - Clone the repository:
-**git clone https://github.com/sunilrathod098/hate-speech-detection-twitter.git**
+**git clone https://github.com/Yash7142/HateSpeech_Detection_Social_Media**
 
 - Navigate to the project directory:
 **cd hate-speech-detection-twitter**
